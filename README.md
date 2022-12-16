@@ -2,6 +2,30 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
+## SETUP STEPS.
+
+# INSTALL ANGULAR
+1. Open your terminal and enter npm install -g @angular/cli
+
+2. cd into your workspace on
+3. Clone rapidbolo repository
+git clone https://github.com/ChocLawrence/rapidbolo.git
+
+4. Navigate to the rapidbolo folder and run the app by entering,
+cd rapidbolo
+
+5. Install all packages with npm by entering
+npm i
+
+6. Run project by entering ng serve
+7. Project can now be found on http://localhost:4200/ on your browser.
+ 
+Full tutorial on Angular Installation
+[Angular Installation](https://angular.io/guide/setup-local)
+
+# NOTE 
+VSCode can open a terminal
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
