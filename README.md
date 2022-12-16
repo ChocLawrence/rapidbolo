@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## SETUP STEPS.
 
+1. Install Node JS [Windows Installation](https://nodejs.org/en/download/)
+
 # INSTALL ANGULAR
 1. Open your terminal and enter npm install -g @angular/cli
 
